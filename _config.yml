@@ -1,4 +1,6 @@
 future: true
-theme: jekyll-theme-minimal
 title: Anchorboot
 description: Platform firmware distribution for ARM-based ChromeOS devices
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
