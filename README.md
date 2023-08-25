@@ -28,9 +28,9 @@ project, which provides replacement platform firmware using coreboot and
 TianoCore EDK II.
 
 However, they have limited their focus on x86-based ChromeOS devices so
-far. Meanwhile, although some firmware development has been happening on
-ARM-based ones (enough to support U-Boot on earlier models), there
-hasn't been an easy-to-install distribution like theirs. We would like
+far. Meanwhile, although other developers have been doing firmware work
+on ARM-based ones enough to support U-Boot on earlier models, there
+isn't an easy-to-install distribution like theirs yet. We would like
 to bridge the gap and replicate their success on the ARM side.
 
 
