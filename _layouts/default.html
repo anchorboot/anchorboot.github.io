@@ -34,6 +34,11 @@
 
       </section>
       <footer style="text-align: center;">
+        <div style="text-align: left;">
+          {% for post in site.posts %}
+            <a href="{{ post.url }}">{{ post.name }}</a>
+          {% endfor %}
+        </div>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
