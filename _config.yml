@@ -8,7 +8,7 @@ github:
   is_user_page: false
   repository_url: https://github.com/anchorboot/
   owner_url: https://github.com/alpernebbi/
-  owner_name: Alper Nebi Yasak
+  owner_name: alpernebbi
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
