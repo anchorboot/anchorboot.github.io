@@ -53,3 +53,20 @@ As each board's work is complete, we will prepare and distribute
 pre-built, tested firmware images ready to be flashed on these boards
 along with sources, instructions on how to use the images, and other
 documentation relevant to the devices.
+
+
+Acknowledgements
+----------------
+
+<a href="https://NLnet.nl">
+    <img src="/logo/banner.png" alt="Logo NLnet: abstract logo of four people seen from above">
+</a>
+<a href="https://NLnet.nl/NGI0">
+    <img src="/image/logos/NGI0Entrust_tag.svg" alt="Logo NGI Zero: letterlogo shaped like a tag">
+</a>
+
+This project was funded through the [NGI0 Entrust](https://nlnet.nl/entrust) Fund,
+a fund established by [NLnet](https://nlnet.nl) with financial support
+from the European Commission's [Next Generation Internet](https://ngi.eu) programme,
+under the aegis of DG Communications Networks, Content and Technology
+under grant agreement N<sup>o</sup> 101069594.
