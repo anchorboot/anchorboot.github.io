@@ -58,12 +58,14 @@ documentation relevant to the devices.
 Acknowledgements
 ----------------
 
-<a href="https://NLnet.nl">
+<div style="display: flex; flex-flow: row wrap; justify-content: space-between; align-items: center;">
+  <a href="https://NLnet.nl" style="flex: 1; margin: 1%;">
     <img src="https://NLnet.nl/logo/banner.png" alt="Logo NLnet: abstract logo of four people seen from above">
-</a>
-<a href="https://NLnet.nl/NGI0">
+  </a>
+  <a href="https://NLnet.nl/NGI0" style="flex: 1; margin: 1%;">
     <img src="https://NLnet.nl/image/logos/NGI0Entrust_tag.svg" alt="Logo NGI Zero: letterlogo shaped like a tag">
-</a>
+  </a>
+</div>
 
 This project was funded through the [NGI0 Entrust](https://nlnet.nl/entrust) Fund,
 a fund established by [NLnet](https://nlnet.nl) with financial support
