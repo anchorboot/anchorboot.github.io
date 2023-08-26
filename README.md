@@ -59,10 +59,10 @@ Acknowledgements
 ----------------
 
 <a href="https://NLnet.nl">
-    <img src="/logo/banner.png" alt="Logo NLnet: abstract logo of four people seen from above">
+    <img src="https://NLnet.nl/logo/banner.png" alt="Logo NLnet: abstract logo of four people seen from above">
 </a>
 <a href="https://NLnet.nl/NGI0">
-    <img src="/image/logos/NGI0Entrust_tag.svg" alt="Logo NGI Zero: letterlogo shaped like a tag">
+    <img src="https://NLnet.nl/image/logos/NGI0Entrust_tag.svg" alt="Logo NGI Zero: letterlogo shaped like a tag">
 </a>
 
 This project was funded through the [NGI0 Entrust](https://nlnet.nl/entrust) Fund,
