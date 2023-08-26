@@ -58,7 +58,7 @@ documentation relevant to the devices.
 Acknowledgements
 ----------------
 
-<div style="display: flex; flex-flow: row wrap; justify-content: space-between; align-items: center;">
+<div style="display: flex; flex-flow: row wrap; justify-content: space-between; align-items: center; column-gap: 10%">
   <a href="https://NLnet.nl" style="flex: 1; margin: 1%;">
     <img src="https://NLnet.nl/logo/banner.png" alt="Logo NLnet: abstract logo of four people seen from above">
   </a>
