@@ -40,7 +40,19 @@ header {
 }
 
 header .logo {
-    max-height: 25vh;
+    max-height: 256px;
+}
+
+@media screen and (max-height: 800px) {
+    header .logo {
+        max-height: 168px;
+    }
+}
+
+@media print, screen and (max-height: 650px) {
+    header .logo {
+        max-height: 128px;
+    }
 }
 
 header .posts-navbar {
