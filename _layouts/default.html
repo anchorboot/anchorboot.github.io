@@ -14,16 +14,16 @@
   </head>
   <body>
     <div class="wrapper">
-      <header style="text-align: center;">
+      <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Anchorboot Logo" style="max-height: 25vh;" />
+          <img class="logo" src="{{site.logo | relative_url}}" alt="Anchorboot Logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <div style="text-align: left;">
+        <div class="posts-navbar">
           <ul>
             {% for post in site.posts %}
               <li>
@@ -43,7 +43,7 @@
       {{ content }}
 
       </section>
-      <footer style="text-align: center;">
+      <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
