@@ -8,3 +8,8 @@ code, pre {
   line-height: 18px;
   tab-size: 4;
 }
+
+a:hover {
+    font-weight: unset;
+    text-decoration: underline;
+}
